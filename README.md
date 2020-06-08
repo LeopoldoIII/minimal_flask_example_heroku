@@ -1,4 +1,4 @@
-
+I am editing the README file. Adding some more details about the project description.
 Here's a quick guide to each of the files and information whether you need to edit each:
 
 ## Files you'll put the code you wrote yesterday into 
